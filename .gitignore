@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Local environment/configuration
+.env
+.env.*
+*.local
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs / runtime state
+*.log
+state.json
+
+# Temporary files
+*.tmp
+*.swp
